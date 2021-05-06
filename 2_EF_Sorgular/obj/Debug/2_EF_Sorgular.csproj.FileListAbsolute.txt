@@ -1,0 +1,14 @@
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\2_EF_Sorgular.exe.config
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\2_EF_Sorgular.exe
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\2_EF_Sorgular.pdb
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\2_EF_Sorgular.csprojAssemblyReference.cache
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\_2_EF_Sorgular.Form1.resources
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\_2_EF_Sorgular.Properties.Resources.resources
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\2_EF_Sorgular.csproj.GenerateResource.cache
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\2_EF_Sorgular.csproj.CopyComplete
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\2_EF_Sorgular.exe
+C:\Users\seyid\Desktop\C# Projeler\Data_Acsess\2_EF_Sorgular\2_EF_Sorgular\obj\Debug\2_EF_Sorgular.pdb
